@@ -15,5 +15,4 @@ nodeId.egofeat : The features for the ego user.
 nodeId.featnames : The names of each of the feature dimensions. Features are '1' if the user has this property in their profile, and '0' otherwise. This file has been anonymized for facebook users, since the names of the features would reveal private data.
 
 
-* 1363 Featnames
 * 973 Networks 
