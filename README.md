@@ -26,6 +26,6 @@ https://docs.google.com/document/d/1CBnxY2WxGAxmV4ajFJOa2v8v9Tetl-nfuqsIhyV2p8g/
 https://docs.google.com/presentation/d/1F7OcSBaFS7pRAD5SxCbV9hceqefJq34AyZMzpgtuuvA/edit?usp=sharing
 
 ## Team Members
-<a href="https://github.com/arkil">Arkil Thakkar</a>
-<a href="https://github.com/psnehas">Sneha Patil</a>
-<a href="https://github.com/ShravaniPande">Shravani Pande</a>
+<a href="https://github.com/arkil">Arkil Thakkar</a><br/>
+<a href="https://github.com/psnehas">Sneha Patil</a><br/>
+<a href="https://github.com/ShravaniPande">Shravani Pande</a><br/>
